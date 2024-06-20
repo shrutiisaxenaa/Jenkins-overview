@@ -2,6 +2,8 @@
 This repo contains the information about the Jenkins.
 Jenkins is all about picking up the code from local or any version control system and delivering it to any environment and automating all the steps which fall in between. It acts as an orchestrator.
 
+Here I have written steps to run jenkins on ubuntu VM using docker as agent.
+
 # Steps
 1. Create an ubuntu EC2 instance on aws and then install jenkins on that.
 2. Jenkins is a java based application so we need to have java(jdk) as pre-requisite.
